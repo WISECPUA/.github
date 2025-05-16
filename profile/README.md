@@ -3,7 +3,7 @@
 Welcome to the official GitHub organization for WISECP Ukraine - providing professional support and development services for WISECP in Ukrainian and Russian languages.
 
 <p align="center">
-  <img src="https://github.com/WISECPUA/.github/raw/main/profile/logo.png" alt="WISECP Ukraine Logo" width="200">
+  <img src="https://github.com/WISECPUA/.github/raw/main/profile/logo.png" alt="WISECP Ukraine Logo" width="180">
 </p>
 
 ## 🌐 About Us
